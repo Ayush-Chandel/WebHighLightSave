@@ -1,4 +1,4 @@
-//It is the content script
+
 let popupButton;
 
 document.addEventListener('mouseup', (e) => {
